@@ -8,3 +8,8 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+url: ""
+plugins:
+  - jekyll-default-layout
+  - jekyll-sitemap
